@@ -1,0 +1,13 @@
+# Ignore test files
+**/*.test.ts
+**/*.test.tsx
+**/*.spec.ts
+**/*.spec.tsx
+
+# Ignore coverage and config files
+coverage/*
+sonar-project.properties
+
+# Ignore index.ts and index.tsx files
+**/index.ts
+**/index.tsx
